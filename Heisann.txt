@@ -1,0 +1,1 @@
+Vi legger inn en tekstfil lokalt.
