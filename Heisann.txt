@@ -1,3 +1,2 @@
 Vi legger inn en tekstfil lokalt.
-
-Neste linje i ny commit.
+Vi redigerer dette på GitHub.
