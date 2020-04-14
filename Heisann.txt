@@ -1,1 +1,3 @@
 Vi legger inn en tekstfil lokalt.
+
+Neste linje i ny commit.
