@@ -1,2 +1,4 @@
 Vi legger inn en tekstfil lokalt.
 Vi redigerer dette på GitHub.
+
+Ny redigering på GitHub.
